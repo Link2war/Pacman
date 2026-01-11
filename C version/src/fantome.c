@@ -1,4 +1,4 @@
-#include "fantome.h"
+#include "../include/fantome.h"
 
 fantome initFantome(SDL_Renderer* ren)
 {

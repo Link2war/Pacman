@@ -1,4 +1,4 @@
-#include "jeu.h"
+#include "../include/jeu.h"
 
 jeu initJeu(SDL_Renderer* ren)
 {

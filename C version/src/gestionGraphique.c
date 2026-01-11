@@ -1,4 +1,4 @@
-#include "gestionGraphique.h"
+#include "../include/gestionGraphique.h"
 
 
 void initSDL(){

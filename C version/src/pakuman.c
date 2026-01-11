@@ -1,5 +1,5 @@
-#include "pakuman.h"
-#include "gestionGraphique.h"
+#include "../include/pakuman.h"
+#include "../include/gestionGraphique.h"
 
 perso initPerso (SDL_Renderer* ren){
     perso personnage;

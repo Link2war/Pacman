@@ -1,5 +1,5 @@
-#include "plateau.h"
-#include "gestionGraphique.h"
+#include "../include/plateau.h"
+#include "../include/gestionGraphique.h"
 
 
 plateau initPlateau()

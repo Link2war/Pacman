@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <time.h>
-#include "jeu.h"
+#include "include/jeu.h"
 
 
 
