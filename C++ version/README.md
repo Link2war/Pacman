@@ -1,17 +1,18 @@
-Fait en Février 2025 avec la librairie Bbop-2D
-le makefile est compatible uniquement sur linux
+Fait en Février 2025 avec la librairie Bbop-2D.
 
-les librairies (statiques) sont déjà fournis :
-libs/
+Le makefile est compatible uniquement sur linux
 
-compilez le jeu avec la commande :
-make
+Les librairies (statiques) sont déjà fournis :
+- libs/
 
-lancez le programme avec la commande :
-make run ou ./game
+Compilez le jeu avec la commande :
+- make
 
-supprimez l'exécutable et les fichiers .o avec la commande :
-make clean
+Lancez le programme avec la commande :
+- make run ou ./game
+
+Supprimez l'exécutable et les fichiers .o avec la commande :
+- make clean
 
 Le jeu n'est pas adaptée pour Windows
 
